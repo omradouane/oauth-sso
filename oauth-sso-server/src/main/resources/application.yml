@@ -1,0 +1,6 @@
+server:
+  port: 9999
+  context-path: /auth
+spring:
+  application:
+    name: sso-server
